@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>John.png</string>
+		<key>name</key>
+		<string>John Warner</string>
+		<key>employeeID</key>
+		<string>001</string>
+		<key>designation</key>
+		<string>Project Manager</string>
+		<key>bloodGroup</key>
+		<string>B-</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Peter.png</string>
+		<key>name</key>
+		<string>Peter Parker</string>
+		<key>employeeID</key>
+		<string>002</string>
+		<key>designation</key>
+		<string>Team Lead</string>
+		<key>bloodGroup</key>
+		<string>AB-</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Maria.png</string>
+		<key>name</key>
+		<string>Maria Vincent</string>
+		<key>employeeID</key>
+		<string>003</string>
+		<key>designation</key>
+		<string>Senior Software Engineer</string>
+		<key>bloodGroup</key>
+		<string>O+</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Scarlett.png</string>
+		<key>name</key>
+		<string>Scarlett Johnson</string>
+		<key>employeeID</key>
+		<string>004</string>
+		<key>designation</key>
+		<string>Associate Software Engineer</string>
+		<key>bloodGroup</key>
+		<string>O-</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Shawn.png</string>
+		<key>name</key>
+		<string>Shawn Lewis</string>
+		<key>employeeID</key>
+		<string>005</string>
+		<key>designation</key>
+		<string>Trainee Software Engineer</string>
+		<key>bloodGroup</key>
+		<string>B+</string>
+	</dict>
+</array>
+</plist>
